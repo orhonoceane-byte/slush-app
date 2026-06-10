@@ -1,0 +1,33 @@
+{
+    "name": "Slush — Beach Bar",
+    "short_name": "Slush",
+    "description": "Granités alcoolisés artisanaux sur le littoral atlantique",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#00BFA5",
+    "theme_color": "#00BFA5",
+    "orientation": "portrait",
+    "categories": ["food", "lifestyle"],
+    "icons": [
+        {
+            "src": "images/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "images/screenshot.webp",
+            "sizes": "390x844",
+            "type": "image/webp",
+            "form_factor": "narrow"
+        }
+    ]
+}
